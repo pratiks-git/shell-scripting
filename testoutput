@@ -1,0 +1,16 @@
+----------------------Print IAM usernames---------------------
+2023-08-13 13:45:29 cf-templates-z88gsjra9put-us-east-1
+2023-05-13 00:44:45 cicddevops-artifacts-bucket
+2023-05-18 21:08:10 course-aws-devops-cicddemo
+2023-12-01 17:01:32 demo-s3-bucket-pratik
+2023-11-26 14:29:26 elasticbeanstalk-us-east-1-626037834880
+2023-08-28 00:53:51 s3-cft-mys3bucket-vm46m0txl8k5
+------------------Print EC2 instances---------------------
+{
+    "Reservations": []
+}
+-----------------Print IAM usernames---------------------
+"cicd-user"
+"cli-user"
+"jenkins-user"
+*****This script ended at Sunday 11 February 2024 11:43:04 AM IST*****

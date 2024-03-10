@@ -1,0 +1,4 @@
+This is my test file
+My name is pratik
+My friend is me, I love to travel 
+Also I love to learn programming and shell scripting 
